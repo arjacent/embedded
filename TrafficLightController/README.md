@@ -1,7 +1,7 @@
 # Traffic Light Controller
 My implementation of Lab 10 of Embedded Systems Change the World from Texas A&M.
 
-![
+![Lab10image001.png](Lab10image001.png)
 
 ## Requirements
 
